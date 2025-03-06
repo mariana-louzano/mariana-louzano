@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariana-louzano. I am not from this century, although I was pretty good at my Tumblr HTML. I grew up reading books and watching TV series. I had to be outgoing and fun to get people to like me in every city we moved to. After 2.5 years as a lawyer, I decided I wanted to be happy—and stress over code. So, here I am.
 - 👀 I’m interested in product management, database, and everyhthing it takes a software engineer to be a software engineer.
-- 🌱 I’m currently learning promp engeneering, AI, PostgreSQL, HTML, and Git of course.
+- 🌱 I’m currently learning promp engineering, AI, PostgreSQL, HTML, and Git of course.
 - 💞️ I’m looking to collaborate on anything that makes me closer to my goal on tech.
 - 📫 How to reach me: tiktok and youtube /marianalouz 
 - 😄 Pronouns: she
