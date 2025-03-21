@@ -2,8 +2,6 @@
 - 👀 I’m interested in product management, database, and everyhthing it takes a software engineer to be a software engineer.
 - 🌱 I’m currently learning promp engineering, AI, PostgreSQL, HTML, and Git of course.
 - 💞️ I’m looking to collaborate on anything that makes me closer to my goal on tech.
-- 📫 How to reach me: tiktok-instagram-youtube /mmarianalouzano 
-- 😄 Pronouns: she
 - ⚡ Fun fact: I did a master's degree in historical law in Portugal and I was a teacher for almost 2 years. I love history, but please don't ask me anything about law.
   
 <img src="https://raw.githubusercontent.com/mariana-louzano/mariana-louzano/output/snake.svg" alt="Snake animation" />
