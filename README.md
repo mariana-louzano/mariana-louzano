@@ -11,9 +11,9 @@
 
 -- 📫 How to reach me **contato.marianalouzano@gmail.com**
 
--- 📄 Know about my experiences [After 2.5 years as a lawyer, I decided I wanted to be happy—and stress over code.](After 2.5 years as a lawyer, I decided I wanted to be happy—and stress over code.)
+-- 📄 After 2.5 years as a lawyer, I decided I wanted to be happy—stressed over code.
 
--- ⚡ Fun fact **I did a master's degree in historical law in Portugal and I was a teacher for almost 2 years. I love history, but please don't ask me anything about law.**
+-- ⚡ Fun fact **I did a master's degree in historical law in Portugal and I was a teacher for almost 2 years. I love history, but please don't ask me much about law.**
 
 <br> 
 <h3 align="left">Connect with me:</h3>
